@@ -21,7 +21,7 @@ Standard C++ libraries
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/homework-organizer.git
+git clone https://github.com/nicodemus-munywoki/Algorithms.git
 ```
 
 Compile the program:
